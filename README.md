@@ -12,4 +12,6 @@ This project is built using the **Model-View-Controller (MVC)** architecture. Th
 - **Submission**: The final version is submitted on LCMS.
 - **UI Documentation**: Images captured from the UI are included.
 
+## Images are captured from UI
+![Screenshot 2025-06-10 092607](https://github.com/user-attachments/assets/c1e61e99-ec6d-4297-b4ed-4699def4a60a)
 
