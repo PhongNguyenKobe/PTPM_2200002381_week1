@@ -13,5 +13,5 @@ This project is built using the **Model-View-Controller (MVC)** architecture. Th
 - **UI Documentation**: Images captured from the UI are included.
 
 ## Images are captured from UI
-![Screenshot 2025-06-10 092607](https://github.com/user-attachments/assets/c1e61e99-ec6d-4297-b4ed-4699def4a60a)
+![Screenshot 2025-06-13 083402](https://github.com/user-attachments/assets/70c0c413-0684-4a99-aea4-13c3433154ed)
 
